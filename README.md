@@ -8,6 +8,13 @@ A free course designed for people with some coding experience, who want to learn
 
 Based on the free online available [Book - Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD  ](https://github.com/fastai/fastbook). Advised to go through the course reading the book also.
 
+[Notebooks for exercises can be found here](https://github.com/fastai/course22)
+
 This is in two parts - found in the foulder 1 
 
 Updating as I progress.
+
+---
+## Resources
+
+Complete Quizes here [aiquizzes!](https://aiquizzes.com/)
