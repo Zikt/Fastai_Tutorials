@@ -10,3 +10,7 @@ Working on identifying signlangauge
 
 ## Lesson 2, 5th September 2024:
 Successfully used [Huggingface spaces with Gradio](https://huggingface.co/spaces/isaacthani/minimalDemo) to run a model
+
+Todo: Build a different, practical/useful model and deploy.
+
+## Lesson 3, Friday 6th September 2024
